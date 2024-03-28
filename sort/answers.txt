@@ -1,0 +1,6 @@
+sort1 uses: bubble sort
+How do you know?: It runs the slowest among the three methods with both the random number txt and the reversed number txt.
+sort2 uses: merge sort
+How do you know?: It runs the fastest among the three methods with both the random number txt and the reversed number txt.
+sort3 uses: selection sort
+How do you know?: It runs between the slowest and the fastest.
