@@ -64,26 +64,26 @@ To run the code examples and problem sets in this repository, you'll need to hav
 
 ### Cloning the Repository
 To clone this repository, run:
-bash
-Copy code
-git clone https://github.com/your-username/CS50x-Intro-to-Computer-Science-2024.git
+- bash
+- Copy code
+- git clone https://github.com/your-username/CS50x-Intro-to-Computer-Science-2024.git
 
 ### Usage
 Each week's content is organized into separate folders. Inside each folder, you will find the problem set code, any supporting files, and a README file that explains the specifics of the assignment.
 
 ### Example
-- To run a C program:
-bash
-Copy code
-cd Week1-C
-make hello
-./hello
+To run a C program:
+- bash
+- Copy code
+- cd Week1-C
+- make hello
+- ./hello
 
-- To run a Python script:
-bash
-Copy code
-cd Week6-Python
-python3 script.py
+To run a Python script:
+- bash
+- Copy code
+- cd Week6-Python
+- python3 script.py
 
 ### Resources
 - CS50 Official Website
